@@ -23,7 +23,7 @@ Not working? Come to the Microsoft booth and we'll get it fixed.
 You may already have an MSA (@outlook.com or @hotmail.com email, or could be associated with any other email address). If you don't, you can create one at [https://signup.live.com/](https://signup.live.com/) or as part of the instructions below.
 
 ## Azure hackathon prize
-Use any Azure service (like, any of them...) and enter our Azure prize (Azure Champ Challenge). Winners will recieve an Xbox One X for each team member and your hack will be entered into our Imagine Cup competition (the grand prize last year was a mentoring session with CEO Satya and $85k).
+Use any Azure service (like, any of them...) and enter our Azure prize. Winners will recieve a Surface Pro 5 for each team member and your hack will be entered into our Imagine Cup competition (the grand prize last year was a mentoring session with CEO Satya and $100k).
 
 See below for details.
 
@@ -94,8 +94,8 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
 
 ## Prize details
 ### What's our hack prize?
-Each member of your team (up to 4 people) will win a
-[XBOX ONE X 1TB](https://www.xbox.com/en-us/xbox-one-x).
+Each member of your team (up to 5 people) will win a Surface Pro 5.
+
 The primary requirement is that your hack project include Azure in some way. Please be sure to read the Terms & Conditions for Azure Prize specific to *your* hackathon. Ask Microsoft representitves for the link!
 
 ### How do I win? What's the judging criteria?
